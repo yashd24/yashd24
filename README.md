@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashdeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/yashdeepsahu13" target="blank"><img src="https://img.shields.io/twitter/follow/yashdeepsahu13?logo=twitter&style=for-the-badge" alt="yashdeepsahu13" /></a> </p>
 
